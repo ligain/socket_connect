@@ -6,7 +6,7 @@ A training script to connect/read/write to remote socket.
   
 0) Get source code  
 ```bash  
-$ git clone https://github.com/ligain/17_sites_monitoring.git  
+$ git clone https://github.com/ligain/socket_connect.git
 ```  
   
 # Usage
